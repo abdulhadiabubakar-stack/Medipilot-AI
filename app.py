@@ -6,7 +6,7 @@ from math import asin, cos, radians, sin, sqrt
 import streamlit as st
 
 st.set_page_config(page_title="MediPilot AI | Gombe Simulator", page_icon="🩺", layout="wide")
-
+gi ad
 LOCATIONS = {
     "Gombe metropolis": (10.2897, 11.1671),
     "Kaltungo": (9.8183, 11.3089),
